@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-peliculas",
+  "version": "1.0.0",
+  "description": "CUrso practico de consumir api rest de peliculas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaRIEN/api-rest-peliculas.git"
+  },
+  "author": "garien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GaRIEN/api-rest-peliculas/issues"
+  },
+  "homepage": "https://github.com/GaRIEN/api-rest-peliculas#readme"
+}
