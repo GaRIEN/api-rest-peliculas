@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GaRIEN/api-rest-peliculas/issues"
   },
-  "homepage": "https://github.com/GaRIEN/api-rest-peliculas#readme"
+  "homepage": "https://github.com/GaRIEN/api-rest-peliculas#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  }
 }
